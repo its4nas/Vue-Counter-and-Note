@@ -1,10 +1,10 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import Counter from './components/Counter.vue'
 import Note from './components/Note.vue'
 </script>
 
 <template>
-  <HelloWorld/>
+  <Counter/>
   <br>
   <Note/>
 </template>
